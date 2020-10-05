@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning **ReactJS, React Native, TypeScript, PostgresSQL**
 
+- :rocket: Studying at a Rocketseat!
+
 - 👨‍💻 All of my projects are available at [https://github.com/kvwillian](https://github.com/kvwillian)
 
 - 💬 Ask me about **HTML, CSS, JS**
