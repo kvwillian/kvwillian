@@ -1,7 +1,7 @@
 <h1 align="center">Hi Guys 👋, I'm Kevin Willian</h1>
 <h3 align="center">A Passionate Fullstack Developer Student</h3>
 
-- 🌱 I’m currently learning **ReactJS, React Native, TypeScript, PostgresSQL**
+- 🌱 I’m currently learning **ReactJS, React Native, NodeJS, TypeScript, PostgresSQL**
 
 - :rocket: Studying at a Rocketseat!
 
