@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Pier Cloud](https://www.linkedin.com/company/piercloud/mycompany/)
 
-- 🌱 I’m currently learning **ReactJS, NodeJS, and TypeScript**
+- 🌱 I’m currently learning **Next.js, NodeJS, and TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kvwillian](https://github.com/kvwillian)
 
