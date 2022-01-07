@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kvwillian&label=Profile%20views&color=0e75b6&style=flat" alt="kvwillian" /> </p>
 
-- 🔭 I’m currently working on [Pier Cloud](https://www.linkedin.com/company/piercloud/mycompany/)
+- 🔭 I’m currently working on [Dock Tech](https://www.linkedin.com/company/dock-community/mycompany/)
 
 - 🌱 I’m currently learning **Next.js, NodeJS, and TypeScript**
 
