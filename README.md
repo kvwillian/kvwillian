@@ -1,9 +1,9 @@
 <h1 align="center">Hi Guys👋, I'm Kevin Willian</h1>
-<h3 align="center">A middle Fullstack Web Developer</h3>
+<h3 align="center">A Senior Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kvwillian&label=Profile%20views&color=0e75b6&style=flat" alt="kvwillian" /> </p>
 
-- 🔭 I’m currently working on [Dock Tech](https://www.linkedin.com/company/dock-community/mycompany/)
+- 🔭 I’m currently working on [MIMO Live Sales](https://www.linkedin.com/company/mimolivesales/mycompany/)
 
 - 🌱 I’m currently learning **Next.js, NodeJS, and TypeScript**
 
@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **ReactJS, NodeJS, HTML5, CSS3 and JS**
 
-- 📫 How to reach me **kevinswilliam.kw@gmail.com**
+- 📫 How to reach me **ksouza.dev@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/kevin-s-936aa4122/](https://www.linkedin.com/in/kevin-s-936aa4122/)
 
